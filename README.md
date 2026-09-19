@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Anand Pranav 👋
+# Hi, I'm Anand Pranav 
 
 ### ☕ Learning Java Full Stack Development
 
@@ -50,12 +50,25 @@ My goal is not just to learn technologies, but to understand **how and why** the
 
 ---
 
+## 📚 Learning in Public
+
+I'm documenting my learning journey through consistent practice and hands-on learning.
+
+| Repository | Focus |
+|------------|-------|
+| ☕ [Java Learning Lab](https://github.com/ianandpranav/java-learning-lab) | Java • OOP • DSA |
+| 🌐 [HTML Learning Lab](https://github.com/ianandpranav/html-learning-lab) | HTML |
+| 🎨 [CSS Learning Lab](https://github.com/ianandpranav/css-learning-lab) | CSS |
+| ⚡ [JavaScript Learning Lab](https://github.com/ianandpranav/javascript-learning-lab) | JavaScript |
+| ⚛️ [React Learning Lab](https://github.com/ianandpranav/react-learning-lab) | React |
+
+---
+
 ## 💼 Open to Work
 
 I'm looking for opportunities in **Java Full Stack, Backend, Frontend, or Associate Software Development** where I can contribute to real-world projects, apply my skills, learn from experienced teams, and continue growing as a software developer. I'm also open to **internships, freelance work, and interesting development projects** where I can contribute and gain practical experience. If you're hiring or have an opportunity where I could contribute, I'd be happy to hear from you.
 
 **💼 LinkedIn:** [Anand Pranav](https://www.linkedin.com/in/anand-pranav-5441821ba/)  
-**🐙 GitHub:** [ianandpranav](https://github.com/ianandpranav)
 
 ---
 
@@ -68,6 +81,8 @@ To become a **skilled Java Full Stack Developer** with strong programming, probl
 <div align="center">
 
 ### 📚 Always Learning. Always Improving.
+
+*Learn • Practice • Build • Improve*
 
 *One step at a time.*
 
